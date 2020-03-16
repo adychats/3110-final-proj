@@ -8,3 +8,7 @@ The current goal is to build a simple (probably expandable in the future) IDE fo
 - commenting/uncommenting blocks of code using one/two keystrokes
 - saving files with CTRL-S
 - have file-browsing capabilities to search for and open files (optional)
+
+## Nice links to check out ##
+- Turning your text editor into an IDE:
+    - https://opam.ocaml.org/blog/turn-your-editor-into-an-ocaml-ide/
